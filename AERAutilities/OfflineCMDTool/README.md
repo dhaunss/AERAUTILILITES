@@ -1,0 +1,2 @@
+This code is adapted from https://forge.physik.rwth-aachen.de/projects/vispa-augeroffline/repository/entry/vispa_augeroffline/workspace/executeOffline.py
+For some (maybe outdated) documentation see https://www.auger.unam.mx/AugerWiki/OfflineCmdLineTool?highlight=%28cmd%29 (Auger Login Needed)
